@@ -1,0 +1,21 @@
+{
+  "name": "Namma Metro Route Finder",
+  "short_name": "Metro Route",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "description": "Offline-capable Namma Metro route finder powered by C + WebAssembly.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
